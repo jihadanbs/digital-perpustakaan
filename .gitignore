@@ -3,6 +3,7 @@
 /writable/logs/*
 app/Config/Email.php
 /public/admin/
-/public/assets/
+/public/assets/admin/
+/public/assets/js/
 /public/assets-admin/
 .env
